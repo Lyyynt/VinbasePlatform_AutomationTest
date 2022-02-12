@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="12" passed="12" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-15T12:28:52 ICT" name="Default suite" finished-at="2021-12-15T12:31:20 ICT" duration-ms="148015">
+    <groups>
+    </groups>
+    <test started-at="2021-12-15T12:28:52 ICT" name="Default test" finished-at="2021-12-15T12:31:20 ICT" duration-ms="148015">
+      <class name="testcases.SendMessage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:28:52 ICT" name="setUp" finished-at="2021-12-15T12:29:34 ICT" duration-ms="41376" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:29:35 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:29:37 ICT" duration-ms="2267" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Thực đơn nhà hàng của Oasis nay có những món gì]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:29:37 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:29:54 ICT" duration-ms="17420" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Quầy bar hôm nay có món gì]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:29:54 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:29:57 ICT" duration-ms="2301" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Có những món gì ở Oasis ngày hôm nay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:29:57 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:29:58 ICT" duration-ms="1904" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Gọi món nha]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:29:58 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:30:01 ICT" duration-ms="2085" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hôm nay ở Oasis có món gì ngon ko]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:30:01 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:30:18 ICT" duration-ms="17545" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nhà hàng buffet ấy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:30:18 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:30:20 ICT" duration-ms="2284" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sealink hôm nay có những món gì]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:30:20 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:30:38 ICT" duration-ms="17549" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Menu nhà hàng buffet ấy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:30:38 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:30:56 ICT" duration-ms="18282" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Có những món gì tại chuỗi các nhà hàng tại Sealink]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:30:56 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:31:15 ICT" duration-ms="18364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[có món gì ở nhà hàng gọi món]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:31:15 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:31:18 ICT" duration-ms="3289" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Menu của Sealink nay có gì]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method signature="SendMessage(java.lang.String,java.lang.String)[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:31:18 ICT" name="SendMessage" data-provider="sendMessage" finished-at="2021-12-15T12:31:20 ICT" duration-ms="2538" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Những món có thể gọi về phòng ấy]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendMessage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.SendMessage@57a3af25]" started-at="2021-12-15T12:31:20 ICT" name="tearDown" finished-at="2021-12-15T12:31:20 ICT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.SendMessage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
